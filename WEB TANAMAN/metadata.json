@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Tanaman Hias Premium",
+  "description": "Website e-commerce modern untuk tanaman hias premium berbasis TypeScript React & Express, lengkap dengan Dashboard Admin, Katalog Produk, Keranjang, Voucher, Flash Sale, Laporan Penjualan, dan Sistem Pelacakan Resi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
